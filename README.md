@@ -100,7 +100,7 @@ If translations are added locally, these can also be pushed up to Transifex. (Be
 tx push -t --skip
 ```
 
-Note that the [theme needs to be translated seperately](https://github.com/open-contracting/standard_theme#translations).
+Note that the [theme needs to be translated separately](https://github.com/open-contracting/standard_theme#translations).
 
 
 ### Theme
